@@ -1,3 +1,4 @@
 .idea
 2@MI.vcf
-.result/*
+result/*
+test/*
